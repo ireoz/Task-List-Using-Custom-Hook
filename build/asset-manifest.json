@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-List-Using-Custom-Hook/static/css/main.92aeecc6.css",
+    "main.js": "/Task-List-Using-Custom-Hook/static/js/main.6e2217ba.js",
+    "index.html": "/Task-List-Using-Custom-Hook/index.html",
+    "main.92aeecc6.css.map": "/Task-List-Using-Custom-Hook/static/css/main.92aeecc6.css.map",
+    "main.6e2217ba.js.map": "/Task-List-Using-Custom-Hook/static/js/main.6e2217ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92aeecc6.css",
+    "static/js/main.6e2217ba.js"
+  ]
+}
